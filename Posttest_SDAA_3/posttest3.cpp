@@ -2,8 +2,6 @@
 #include <string>
 using namespace std;
 
-const int menu_maks = 20;
-
 struct item_menu{
     int id;
     string nama;
